@@ -1,6 +1,7 @@
 ## Olá meu nome é Carlos Vinicius!
 
 - 🌱 Estudando React e TypeScript
+- ✔  Meu portifolio: https://carlosvinici.github.io/Portifolio/
 - 📫 Contato: carlosviniwork@gmail.com
 
  <div>
@@ -20,7 +21,7 @@
    ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/carlos-vinicius-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
- <a href="https://carlosvinici.github.io/Portifolio/" target="_blank"><img src="https://img.icons8.com/cute-clipart/50/000000/p.png" target="_blank">Portifólio</a>
+  <a href="https://www.linkedin.com/in/carlos-vinicius-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 
 
