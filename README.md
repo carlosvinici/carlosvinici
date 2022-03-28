@@ -1,6 +1,6 @@
 ## Olá meu nome é Carlos Vinicius!
 
-- 🌱 Estudando React e TypeScript
+- 🌱 Estudando React e JavaScript
 - ✔  Meu portifolio: https://carlosvinici.github.io/Portifolio/
 - 📫 Contato: carlosviniwork@gmail.com
 
