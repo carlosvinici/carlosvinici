@@ -1,6 +1,6 @@
 ## Olá meu nome é Carlos Vinicius!
 
-- 🌱 Estudando React e JavaScript
+- 🌱 Estudando Clean Architecture, DDD (Domain-Driven Design), Hexagonal Architecture.
 - ✔  Meu portifolio: https://carlosvinici.github.io/Portifolio/
 - 📫 Contato: carlosviniwork@gmail.com
 
